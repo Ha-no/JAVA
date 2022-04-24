@@ -1,6 +1,6 @@
 
 /*
-	풀이 노션 : https://www.notion.so/BufferedWriter-int-9eedcb628f784eccbe1377fee9d2f6c6
+	풀이 노션 : https://www.notion.so/BufferedWriter-int-325eb44e02e14d7ea92af16ab55a8522
 */
 
 package java;

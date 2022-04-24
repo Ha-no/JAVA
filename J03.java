@@ -1,6 +1,6 @@
 
 /*
-	풀이 노션 : https://www.notion.so/for-x-6c8f8ac3fb964c3cb9ecdf154009104a
+	풀이 노션 : https://www.notion.so/fort-X-859178730ce841c3ad249b3518d308cf
 */
 
 

@@ -1,6 +1,6 @@
 
 /*
-	풀이 노션 : https://www.notion.so/N-58b6025ca00147ad84148f581b7a928a
+	풀이 노션 : https://www.notion.so/N-6a5a47dd000c4beebe81a8d2972bfe6a
 */
 
 package java;
