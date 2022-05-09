@@ -1,5 +1,5 @@
 
-Notion : [노션링크](https://www.notion.so/BufferedWriter-int-325eb44e02e14d7ea92af16ab55a8522)
+Notion : [노션링크](https://west-pineapple-c4d.notion.site/BufferedWriter-int-325eb44e02e14d7ea92af16ab55a8522)
 
 입출력 속도를 향상시키기 위해서  
   
