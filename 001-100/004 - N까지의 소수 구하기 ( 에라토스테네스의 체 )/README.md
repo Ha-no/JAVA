@@ -1,3 +1,7 @@
+***
+Notion : [Notion Link](https://west-pineapple-c4d.notion.site/N-6a5a47dd000c4beebe81a8d2972bfe6a)
+***
+
 2 ~ N 까지의 수 중에서 모든 소수 찾기  
 
 <br/><br/>
