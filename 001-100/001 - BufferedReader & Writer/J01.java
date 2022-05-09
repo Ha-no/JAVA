@@ -1,6 +1,6 @@
 
 /*
-	Ç®ÀÌ ³ë¼Ç : https://www.notion.so/BufferedWriter-int-325eb44e02e14d7ea92af16ab55a8522
+	í’€ì´ ë…¸ì…˜ : https://www.notion.so/BufferedWriter-int-325eb44e02e14d7ea92af16ab55a8522
 */
 
 package java;
@@ -20,10 +20,10 @@ public class J01 {
     	
     	for( int i=1; i<=input1; i++ ) {
     		
-    		// BufferedWriter ·Î intÇüÀ» Ãâ·ÂÇÏ±â À§ÇØ¼­´Â
+    		// BufferedWriter ë¡œ intí˜•ì„ ì¶œë ¥í•˜ê¸° ìœ„í•´ì„œëŠ”
     		// 1. String.valueOf( i );
-    		// 2. StringBuffer sb1; ¸¦ sb1.toString();
-    		// 3. intÇü + ¹®ÀÚÇü = ¹®ÀÚÇü À» ÀÌ¿ë
+    		// 2. StringBuffer sb1; ë¥¼ sb1.toString();
+    		// 3. intí˜• + ë¬¸ìí˜• = ë¬¸ìí˜• ì„ ì´ìš©
     		bw.write( i + "\n" );
     	}
 
