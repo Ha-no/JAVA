@@ -4,7 +4,7 @@ Scanenr가 아닌 BufferedReader() 를 통해 input
   
 System.out.println() 가 아닌 BufferedWriter() 를 통해 output  
   
-   
+  
 BufferedReader()를 사용하기 위해서는  
 BufferedReader( new InputStream( System.in ) );  
 
