@@ -1,3 +1,6 @@
+
+Notion : https://www.notion.so/BufferedWriter-int-325eb44e02e14d7ea92af16ab55a8522
+
 입출력 속도를 향상시키기 위해서  
   
 Scanenr가 아닌 BufferedReader() 를 통해 input  
