@@ -1,6 +1,6 @@
 
 /*
-	Ç®ÀÌ ³ë¼Ç : https://www.notion.so/fort-X-859178730ce841c3ad249b3518d308cf
+	í’€ì´ ë…¸ì…˜ : https://www.notion.so/fort-X-859178730ce841c3ad249b3518d308cf
 */
 
 
@@ -22,7 +22,7 @@ public class J03{
     	char array2[] = new char[10];
     	double array3[] = new double[10];
     	
-    	// ¹è¿­ÀÇ ÃÊ±â°ª ¼³Á¤ for¹®º¸´Ù ºü¸§
+    	// ë°°ì—´ì˜ ì´ˆê¸°ê°’ ì„¤ì • forë¬¸ë³´ë‹¤ ë¹ ë¦„
     	Arrays.fill( array, -1 );
     	Arrays.fill( array2, 'a' );
     	Arrays.fill( array3, 0.5 );
