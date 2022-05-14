@@ -1,9 +1,4 @@
 
-/*
-	풀이 노션 : https://www.notion.so/fort-X-859178730ce841c3ad249b3518d308cf
-*/
-
-
 package java;
 
 import java.io.BufferedReader;
